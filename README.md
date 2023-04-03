@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yuqi, a year two master student at Remmin University of China (RUC). 
+- 👋 Hi, I’m Yuqi, a second-year graduate student at [AIM3 Lab](https://www.ruc-aim3.com/AIM3-Lab.html), Renmin University of China, under the supervision of Prof. [Qin Jin](http://jin-qin.com/). 
 - 👀 I’m interested in Computer Vision, Multi-modality Fusion.
 
 <!---
